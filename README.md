@@ -16,6 +16,8 @@ Atualmente, o principal projeto adicionado nesta área é:
 - [Suporte Apple BR](./projetos/suporte-apple-br/README.md)
 - [Visualizar site online](https://remanyw0.github.io/suporteapple.com.br/)
 
+![Prévia do Suporte Apple BR](./projetos/suporte-apple-br/assets/preview.png)
+
 ## 📁 Estrutura geral
 
 - `Aula 01`

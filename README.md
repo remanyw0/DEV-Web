@@ -1,6 +1,6 @@
 # DEV-Web
 
-Repositório criado para reunir estudos, exercícios práticos e projetos desenvolvidos ao longo da minha evolução em desenvolvimento web.
+Repositório criado para reunir estudos, exercícios práticos e projetos desenvolvidos ao longo do curso de desenvolvimento web pela OxeTech.
 
 ## Organização
 

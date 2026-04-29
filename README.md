@@ -1,33 +1,31 @@
 # DEV-Web
 
-Repositório criado para reunir atividades, exercícios práticos e projetos desenvolvidos ao longo do meu processo de aprendizagem em desenvolvimento web.
+Repositório criado para reunir estudos, exercícios práticos e projetos desenvolvidos ao longo da minha evolução em desenvolvimento web.
 
-## 🗂️ Organização
+## Organização
 
-Este repositório está dividido em duas frentes principais:
+Atualmente, este repositório está dividido em três áreas principais:
 
-- pastas de aula e exercícios, usadas para estudo e prática dos fundamentos
-- pasta `projetos/`, reservada para trabalhos mais completos e apresentáveis
+- `aulas/` para conteúdos e exercícios organizados por etapa de estudo
+- `projetos/` para trabalhos mais completos e apresentáveis
+- `start-code/` para material base de um projeto pessoal em desenvolvimento
 
-## 🌟 Projeto em destaque
-
-Atualmente, o principal projeto adicionado nesta área é:
+## Projetos em destaque
 
 - [Suporte Apple BR](./projetos/suporte-apple-br/README.md)
-- [Visualizar site online](https://remanyw0.github.io/suporteapple.com.br/)
+- [Visualizar Suporte Apple BR online](https://remanyw0.github.io/suporteapple.com.br/)
+- [Receita de Omelete](./projetos/receita-de-omelete/README.md)
 
-![Prévia do Suporte Apple BR](./projetos/suporte-apple-br/assets/preview.png)
+## Estrutura atual
 
-## 📁 Estrutura geral
-
-- `Aula 01`
-- `AULA 02 - EXERCÍCIOS`
-- `Aula 03`
-- `Aula04`
-- `exercicioreceita`
+- `aulas/aula-01`
+- `aulas/aula-02-exercicios`
+- `aulas/aula-03`
+- `aulas/aula-04`
+- `projetos/receita-de-omelete`
+- `projetos/suporte-apple-br`
 - `start-code`
-- `projetos`
 
-## 📚 Observação
+## Observação
 
-Este repositório funciona como um espaço de evolução prática, reunindo desde exercícios iniciais até projetos mais organizados para portfólio.
+Este repositório funciona como um espaço de construção prática, reunindo desde exercícios iniciais até projetos mais organizados para portfólio.
